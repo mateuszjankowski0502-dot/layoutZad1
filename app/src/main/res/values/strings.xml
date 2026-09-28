@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ConstraintLayout2</string>
+    <string name="h1">Rejestracja konta</string>
+    <string name="email">Podaj e-mail:</string>
+    <string name="emialP">ewa@gmail.com</string>
+    <string name="haslo">Podaj hasło:</string>
+    <string name="hasloP">haslo</string>
+    <string name="haslo2">Powtóż hasło:</string>
+    <string name="hasloP2">haslo</string>
+    <string name="text">ewa@gmail.com</string>
+</resources>
